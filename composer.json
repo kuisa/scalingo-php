@@ -1,0 +1,1 @@
+{ "extra": { "paas": { "nginx-includes": ["config/nginx-https-redirection.conf"] } } }
