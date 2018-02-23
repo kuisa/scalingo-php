@@ -1,1 +1,8 @@
-{ "extra": { "paas": { "nginx-includes": ["config/nginx-https-redirection.conf"] } } }
+{
+  "extra": {
+    "paas": {
+      "php": "~7.1",
+      "nginx-includes": ["config/nginx-https-redirection.conf"]
+    }
+  }
+}
