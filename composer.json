@@ -1,18 +1,7 @@
 {
   "config": {
     "platform": {
-      "php": "7.0"
-    }
-  },
-  "require": {
-    "ext-tidy": "*"
-  },
-  "extra": {
-    "paas": {
-      "engines": {
-        "php": "7.1.22"
-      },
-      "nginx-includes": ["config/nginx-https-redirection.conf"]
+      "php": "7.3"
     }
   }
 }
