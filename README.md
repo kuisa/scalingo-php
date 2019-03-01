@@ -1,4 +1,4 @@
-Deploying PHP on Appsdeck
+Deploying PHP on Scalingo
 =========================
 
 Detection of the application type
