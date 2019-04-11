@@ -2,7 +2,7 @@
   "extra": {
     "paas": {
       "engines": {
-        "php": "~7.1"
+        "php": "~7"
       },
       "nginx-includes": ["config/nginx-https-redirection.conf"]
     }
