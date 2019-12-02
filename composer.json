@@ -1,9 +1,11 @@
 {
+  "config": {
+    "platform": {
+      "php": "7.4"
+    }
+  },
   "extra": {
     "paas": {
-      "engines": {
-        "php": "~7"
-      },
       "nginx-includes": ["config/nginx-https-redirection.conf"]
     }
   }
