@@ -1,0 +1,7 @@
+{
+  "name": "Sample PHP",
+  "description": "Sample PHP Info application",
+  "logo": "https://scalingo.com/logo.svg",
+  "repository": "https://github.com/Scalingo/sample-php",
+  "website": "https://php.is-easy-on-scalingo.com/"
+}
