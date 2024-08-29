@@ -1,15 +1,11 @@
-# Deploying PHP on Scalingo
+# Sample Application with PHP
+
+This sample is running on: https://php.is-easy-on-scalingo.com/
 
 ## Detection of the application type
 
 Your project MUST contain an `index.php` file at the root of your
 project. Nothing else is required.
-
-Application → https://php.is-easy-on-scalingo.com/
-
-# Sample Application with PHP
-
-This sample is running on: https://php.is-easy-on-scalingo.com/
 
 ## Deploy via Git
 
