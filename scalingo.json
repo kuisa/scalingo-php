@@ -1,6 +1,6 @@
 {
-    "name": "Sample PHP Laravel",
-    "description": "Sample PHP web application using the Laravel framework",
+    "name": "Sample PHP",
+    "description": "Sample PHP application",
     "logo": "https://scalingo.com/logo.svg",
     "repository": "https://github.com/Scalingo/sample-php",
     "website": "https://php.is-easy-on-scalingo.com/"
