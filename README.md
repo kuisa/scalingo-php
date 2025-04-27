@@ -20,7 +20,7 @@ And that's it!
 
 ## Deploy via One-Click
 
-[![Deploy to Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/Scalingo/sample-php#master)
+[![Deploy to Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/kuisa/scalingo-php#master)
 
 ## Running Locally
 
